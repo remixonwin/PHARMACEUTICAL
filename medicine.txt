@@ -1,0 +1,6 @@
+
+saurav		hello		1000	150	200	nepal
+shivam		hi		1000	200	250	india
+ritesh		hello		2000	300	350	china
+sharma		hey		3000	400	450	usa
+ray		yeh		4000	500	550	butan
