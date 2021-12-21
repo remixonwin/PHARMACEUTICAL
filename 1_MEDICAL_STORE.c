@@ -8,11 +8,11 @@
 
 struct Medical_store
 {
-    char name[100];
-    char composition[100];
+    char name[100]; // value why?
+    char composition[100]; //value why?
     int stock;
     int price;
-    char location[100];
+    char location[100]; // value why?
     int retail;
     int profit;
 };
@@ -21,11 +21,11 @@ int n;
 int i;
 int count = 0;
 
-struct Medical_store medicine[1000];
+struct Medical_store medicine[1000]; //value why?
 
-char sell_medi[100];
+char sell_medi[100]; //value why?
 int stock_out;
-char nametosearch[100];
+char nametosearch[100];//value why?
 
 float dis, dis_amount;
 
